@@ -20,7 +20,7 @@ For this project you will visualize time series data using a line chart, bar cha
 
 ## Directions
 
-Run the Replt boilerplate by [clicking here](https://replit.com/@pierrebomfim/boilerplate-demographic-data-analyzer#main.py)
+Run the Replt boilerplate by [clicking here](https://replit.com/@pierrebomfim/boilerplate-page-view-time-series-visualizer#main.py)
 
 For development, you can use main.py to test the functions. Click the "run" button and main.py will run.
 
